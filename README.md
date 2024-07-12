@@ -1,5 +1,5 @@
 
-# HandGestureControl
+# HandGestureController
 
 This Python script utilizes OpenCV and MediaPipe to track hand landmarks through a webcam. It interprets hand gestures to control the computer cursor's movement, enable clicking and double-clicking, perform scrolling, and adjust system volume. The hand's position and gestures are detected in real-time, offering an interactive interface for hands-free computer control.
 
